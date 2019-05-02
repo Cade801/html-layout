@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    background-color: rgb(189, 189, 189);
+
+}
+
+#top {
+    background-color: rgb(60, 60, 60);
+    height: 20vh;
+    width: 100vw;
+    display: block;
+}
+
+#bottom {
+    background-color: rgb(40, 38, 38);
+    height: 10vh;
+    width: 75vw;
+    margin: auto;
+
+
+    
+}
+
+#middle {
+    background-color: white;
+    height: 70vh;
+    width: 75vw;
+    margin: auto;
+
+}
